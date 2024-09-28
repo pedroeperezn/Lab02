@@ -1,4 +1,4 @@
-﻿/**
+/**
  * Models the information of a novel
  * @author Minh & Pedro
  * @version 1.0
